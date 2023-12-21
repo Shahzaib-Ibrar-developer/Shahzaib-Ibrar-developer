@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shahzaib-Ibrar-developer.
-- 👀 I’m interested in Java Development.
-- 🌱 I’m a Java Full Stack Developer.
-- 💞️ I’m looking to collaborate on Java Projects.
+- 👀 I’m interested in Software Development.
+- 🌱 I’m a Full Stack Software Engineer.
+- 💞️ I’m looking to collaborate on Software Development Projects.
 - 📫 Reach me on Linkedin.
 - Linkedin Profile Link...
 - https://www.linkedin.com/in/shahzaibofficial422/
