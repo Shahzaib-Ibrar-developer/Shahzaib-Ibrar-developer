@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shahzaib-Ibrar-developer.
 - 👀 I’m interested in Software Development.
-- 🌱 I’m a Full Stack Software Engineer.
+- 🌱 I’m a Software Engineer.
 - 💞️ I’m looking to collaborate on Software Development Projects.
 - 📫 Reach me on Linkedin.
 - Linkedin Profile Link...
